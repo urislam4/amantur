@@ -1,0 +1,16 @@
+body{
+    width: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+
+div{
+    border: 5px solid yellow;
+}
+
+img{
+    padding:350px 350px  350px 350px ;
+    width: 500px;
+}
